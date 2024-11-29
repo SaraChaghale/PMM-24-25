@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">banco-SaChNa</string>
+    <string name="card_required">Required field</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="Loggin">Login</string>
+    <string name="password">Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="exit">Exit</string>
+    <string name="invalid_dni">Please enter a valid DNI.</string>
+    <string name="complete_fields">Please fill in all fields.</string>
+    <string name="editTextNuevaClave">New password </string>
+    <string name="login_title">Log In</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="login_button">Enter</string>
+    <string name="exit_button">Exit</string>
+    <string name="global_position">Global Position</string>
+    <string name="movements">Movements</string>
+    <string name="transfers">Transfers</string>
+    <string name="promotions">Promotions</string>
+    <string name="atms">ATMs</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="change_password_title">Change password</string>
+    <string name="enter_new_password">New password</string>
+    <string name="save_password">Save password</string>
+    <string name="new_password">Password changed</string>
+    <string name="welcome">Welcome to my bank</string>
+    <string name="enter">Enter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

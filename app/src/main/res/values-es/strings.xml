@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">banco-SaChNa</string>
+    <string name="welcome_message">Bienvenido/a</string>
+    <string name="card_required">Campo requerido</string>
+    <string name="Loggin">Iniciar sesión</string>
+    <string name="password">Contraseña</string>
+    <string name="exit">Salir</string>
+    <string name="invalid_dni">Por favor, introduce un DNI válido.</string>
+    <string name="complete_fields">Por favor, completa todos los campos.</string>
+    <string name="editTextNuevaClave">Nueva Contraseña </string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="username_hint">Introduce el usuario</string>
+    <string name="password_hint">Introduce la contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="exit_button">Salir</string>
+    <string name="global_position">Posición Global</string>
+    <string name="movements">Movimientos</string>
+    <string name="transfers">Transferencias</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="promotions">Promociones</string>
+    <string name="atms">Cajeros</string>
+    <string name="welcome_text">Bienvenido/a</string>
+    <string name="change_password_title">Cambiar Clave</string>
+    <string name="enter_new_password">Introduce la nueva clave</string>
+    <string name="save_password">Guardar Clave</string>
+    <string name="new_password">Clave cambiada exitosamente</string>
+    <string name="welcome">Bienvenido a mi banco</string>
+    <string name="enter">Entrar</string>
+
+    <!-- Agrega más cadenas según sea necesario -->
+</resources>

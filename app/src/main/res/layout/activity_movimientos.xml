@@ -1,0 +1,34 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movimientos"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:paddingBottom="16dp"/>
+    <TextView
+        android:id="@+id/cuentas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccion la cuentas:"
+        android:textSize="16dp"
+
+        android:layout_marginBottom="16dp"
+        android:gravity="center"/>
+    <!-- Spinner para seleccionar la cuenta -->
+    <Spinner
+        android:id="@+id/spinnerCuentas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <!-- RecyclerView para mostrar los movimientos -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewMovimientos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
